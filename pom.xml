@@ -95,6 +95,7 @@
                         <artifactId>kotlin-maven-allopen</artifactId>
                         <version>${kotlin.version}</version>
                     </dependency>
+                    </dependency>
                 </dependencies>
             </plugin>
         </plugins>
